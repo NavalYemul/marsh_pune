@@ -1,10 +1,14 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC
+# MAGIC Databricks Session
 
 # COMMAND ----------
 
 from pyspark.sql.functions import *
+
+# COMMAND ----------
+
+print("hello")
 
 # COMMAND ----------
 
