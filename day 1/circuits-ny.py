@@ -2,8 +2,12 @@
 # MAGIC %md
 # MAGIC Databricks Session
 
+remove this
+print("databricks")
+
 # COMMAND ----------
 
+comment this
 from pyspark.sql.functions import *
 
 # COMMAND ----------
